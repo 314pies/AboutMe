@@ -2574,6 +2574,25 @@ input, select, textarea {
 			margin: 0;
 		}
 
+	.work-item-link {
+		margin: 0 0 2em 0;
+	}
+
+		.work-item-link .image {
+			margin: 0 0 1.5em 0;
+		}
+
+		.work-item-link h3 {
+			font-size: 1em;
+			margin: 0 0 0.5em 0;
+		}
+
+		.work-item-link p {
+			font-size: 0.8em;
+			line-height: 1.5em;
+			margin: 0;
+		}
+
 /* Header */
 
 	#header {
